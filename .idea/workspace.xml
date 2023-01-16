@@ -4,14 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2b86974-e895-46b2-a7ab-e900ef60e2a7" name="Changes" comment="" />
+    <list default="true" id="d2b86974-e895-46b2-a7ab-e900ef60e2a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObject/PageObjectCourses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestHillelCons/testsJavaBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Data/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Data/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageObject/FormPageFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageObject/FormPageFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestHillelCons/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestHillelCons/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/config/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/config/BaseClass.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2K3ynVeFEwuEyhJseRUcdQrXybh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,9 +41,59 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/tamara.voloshchuk/IdeaProjects/HomeWork11",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tamara.voloshchuk\IdeaProjects\HomeWork11\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.testsJavaBasic">
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestHillelCons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestHillelCons" />
+      <option name="MAIN_CLASS_NAME" value="TestHillelCons.Tests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testsJavaBasic" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HomeWork11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestHillelCons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestHillelCons" />
+      <option name="MAIN_CLASS_NAME" value="TestHillelCons.testsJavaBasic" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.testsJavaBasic" />
+        <item itemvalue="TestNG.Tests" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +104,16 @@
       <updated>1673217728760</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
